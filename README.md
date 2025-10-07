@@ -44,9 +44,7 @@ The app displays category-based news articles, supports offline caching, smooth 
 
 ## 📱 Screenshots / Demo
 
-_Add your screenshots or GIFs here for better visualization._
-
----
+![Main Page](assets/screenshots/main_page.png)
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +53,6 @@ _Add your screenshots or GIFs here for better visualization._
 - **React Navigation** (stack + bottom tabs)
 - **AsyncStorage + Persisted Redux** for offline caching
 - **Lottie-react-native** for animations
-- **date-fns** for relative time formatting
 - **NewsAPI** (or fallback JSON data)
 
 ---
