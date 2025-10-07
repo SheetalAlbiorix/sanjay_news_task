@@ -44,10 +44,12 @@ The app displays category-based news articles, supports offline caching, smooth 
 
 ## 📱 Screenshots / Demo
 
-<img src="assets/screenshots/main_page.png" alt="Main Page" width="400"/>
-<img src="assets/screenshots/main_search.png" alt="Main Page" width="400"/>
-<img src="assets/screenshots/art_details.png" alt="Main Page" width="400"/>
-<img src="assets/screenshots/main_dark.png" alt="Main Page" width="400"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/screenshots/main_page.png" alt="Main Page" width="200"/>
+  <img src="assets/screenshots/main_search.png" alt="Search Page" width="200"/>
+  <img src="assets/screenshots/art_details.png" alt="Details Page" width="200"/>
+  <img src="assets/screenshots/main_dark.png" alt="Dark Mode" width="200"/>
+</div>
 
 ## 🛠️ Tech Stack
 
