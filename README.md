@@ -44,7 +44,7 @@ The app displays category-based news articles, supports offline caching, smooth 
 
 ## 📱 Screenshots / Demo
 
-![Main Page](assets/screenshots/main_page.png)
+<img src="assets/screenshots/main_page.png" alt="Main Page" width="600"/>
 
 ## 🛠️ Tech Stack
 
